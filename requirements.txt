@@ -1,0 +1,11 @@
+dash
+plotly
+pandas
+os
+bs4
+requests
+numpy
+scipy
+pickle
+matplotlib
+scikit-learn
