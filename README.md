@@ -45,9 +45,8 @@ This project implements a machine learning pipeline for training, evaluating, an
    ```bash
    pip install -r requirements.txt
    
-3. - Open the notebooks in numerical order
-   - Run all cells in order to test and view the dashboard
-  
+3. Open the `.ipynb` notebook files in VS Code and run the cells.
+
 ---
 
 ## Results
