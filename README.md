@@ -9,7 +9,7 @@ This project implements a machine learning pipeline for training, evaluating, an
 - **Goal:** Develop and test an AI model that generates trading signals based on technical indicators.
 - **Model output:** Long (`1`), Short (`-1`), or Neutral (`0`).
 - **Strategy evaluation:** Signals are delayed by one day to simulate real-world decision-making (no lookahead bias).
-- **Output:** Signals, executed trades, performance metrics, and a professional-quality dashboard.
+- **Output:** Signals, executed trades, performance metrics, and a simple dashboard.
 
 ---
 
@@ -34,3 +34,16 @@ This project implements a machine learning pipeline for training, evaluating, an
 - **Stylish design** using dark theme, shadows, rounded corners, and modern layout
 
 ---
+
+## How to Run
+1. Clone the repo and move into the folder  
+   ```bash
+   git clone https://github.com/melkerliljegren/linc-trading-dashboard.git
+   cd linc-trading-dashboard
+   
+2. Install required Python packages
+   ```bash
+   pip install -r requirements.txt
+   
+3. - Open the notebooks in numerical order
+   - Run all cells in order to test and view the dashboard
