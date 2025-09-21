@@ -47,3 +47,13 @@ This project implements a machine learning pipeline for training, evaluating, an
    
 3. - Open the notebooks in numerical order
    - Run all cells in order to test and view the dashboard
+  
+---
+
+## Results
+
+The Random Forest model generates buy/sell signals which are displayed in an interactive trading dashboard.  
+Here is a snapshot from one test run:
+
+![Dashboard](assets/01_dashboard.png)
+![Dashboard](assets/02_dashboard.png)
